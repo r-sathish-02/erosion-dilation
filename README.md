@@ -5,25 +5,20 @@ To implement Erosion and Dilation using Python and OpenCV.
 1. Anaconda - Python 3.7
 2. OpenCV
 ## Algorithm:
-### Step1:
-<br>
+### Step1:<br>
 Import the necessary pacakages
 
-### Step2:
-<br>
+### Step2:<br>
 Create the text using cv2.putText
 
-### Step3:
-<br>
+### Step3:<br>
 Create the structuring element
 
-### Step4:
-<br>
+### Step4:<br>
 Erode the image
 
 
-### Step5:
-<br>
+### Step5: <br>
 Dilate the Image
 
  
@@ -69,40 +64,15 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-<br>
-<br>
-<br>
-
 ![image](https://github.com/shalini-venkatesan/erosion-dilation/assets/118720291/f5ef8f70-c1e0-4532-93a2-d3afd11adc73)
 
-
-<br>
-<br>
-<br>
-
 ### Display the Eroded Image
-<br>
-<br>
-<br>
 
 ![image](https://github.com/shalini-venkatesan/erosion-dilation/assets/118720291/4ac1d886-e976-4e1f-a469-be15f59b27fa)
 
-
-<br>
-<br>
-<br>
-
 ### Display the Dilated Image
-<br>
-<br>
-<br>
 
 ![image](https://github.com/shalini-venkatesan/erosion-dilation/assets/118720291/38ce0172-3ce3-4cf1-848a-fbbcaa101df3)
-
-
-<br>
-<br>
-<br>
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
