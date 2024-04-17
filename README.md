@@ -1,21 +1,21 @@
-# Implementation-of-Erosion-and-Dilation
+
+Erode the image# Implementation-of-Erosion-and-Dilation
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
-1. Anaconda - Python 3.7
+   m1. Anaconda - Python 3.7
 2. OpenCV
 ## Algorithm:
 ### Step1:<br>
 Import the necessary pacakages
 
 ### Step2:<br>
-Create the text using cv2.putText
+Create the text using cv2.putTexth vywaqgw uiougugggjugjua GHGDOUFSAR9YHHHYERIYEWIWRIWIWFHYWFEWFWEEWYODSUSDG USGUDCSCGDSUSDHGUSD
 
 ### Step3:<br>
 Create the structuring element
 
 ### Step4:<br>
-Erode the image
 
 
 ### Step5: <br>
@@ -25,7 +25,7 @@ Dilate the Image
 ## Program:
 
 
-#### Import the necessary packages
+#### Import the necessary packagess
 ``` Python
 import numpy as np
 import cv2
